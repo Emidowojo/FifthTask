@@ -1,0 +1,13 @@
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.exe
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.deps.json
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.runtimeconfig.json
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.runtimeconfig.dev.json
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\USER\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csprojAssemblyReference.cache
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfo.cs
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.pdb
+C:\Users\USER\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.genruntimeconfig.cache
